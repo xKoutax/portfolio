@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tätsú_
-email:
+email: 
 description: >- 
   Posts about security, CTFs.
 twitter_username: username
@@ -58,7 +58,7 @@ author:
   bio: "Estudiante de Ciberseguridad."
   location: "Ecuador / Guayaquil"
   links: 
-   - label: "Facebook"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/Victor.angel.ch/?locale=es_LA"
     - label: "LinkedIn"
@@ -66,7 +66,7 @@ author:
       url: "https://www.linkedin.com/in/victor-andre-chiquito-toro-b9358233b/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/" 
+      url: "https://youtube.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/koutax_x2023/?hl=es"
@@ -84,7 +84,7 @@ footer:
       url: "https://www.linkedin.com/in/victor-andre-chiquito-toro-b9358233b/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/" 
+      url: "https://youtube.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/koutax_x2023/?hl=es"
