@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Tätsú_
 email:
-description: >- Posts about security, CTFs.
+description: >- Posts about security, CTFs. Based in Ecuador.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -28,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Guayaquil # Ecuador timezone
 
 include:
   - _pages
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Victor Andre Chiquito Toro"
   avatar : "https://e0.pxfuel.com/wallpapers/973/117/desktop-wallpaper-eyes-dimeo-s-ultra-black.jpg"
-  bio    : "Estudiante de Ciberseguridad."
+  bio    : "Estudiante de Ciberseguridad en Ecuador."
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
@@ -86,7 +86,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/koutax_x2023/?hl=es"
-
 
 defaults:
   # _posts
