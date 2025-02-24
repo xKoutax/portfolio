@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tätsú_
 email:
-description: >- Posts about security, CTFs.
+description: "Posts about security, CTFs."
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: neon
@@ -24,28 +24,15 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Guayaquil
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -57,7 +44,7 @@ plugins:
 author:
   name   : "Victor Andre Chiquito Toro"
   avatar : "https://e0.pxfuel.com/wallpapers/973/117/desktop-wallpaper-eyes-dimeo-s-ultra-black.jpg"
-  bio    : "Estudiante de Ciberseguridad."
+  bio    : "Estudiante de Ciberseguridad en Ecuador."
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
@@ -67,7 +54,7 @@ author:
       url: "https://www.linkedin.com/in/victor-andre-chiquito-toro-b9358233b/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"  # Asegúrate de agregar tu enlace de YouTube real
+      url: "https://youtube.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/koutax_x2023/?hl=es"
@@ -82,14 +69,12 @@ footer:
       url: "https://www.linkedin.com/in/victor-andre-chiquito-toro-b9358233b/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"  # Asegúrate de agregar tu enlace de YouTube real
+      url: "https://youtube.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/koutax_x2023/?hl=es"
 
-
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -100,7 +85,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
