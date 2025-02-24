@@ -1,9 +1,9 @@
 main:
-  - title: "Publicaciones"
-    url: "/publicaciones/"
-  - title: "Categorías"
-    url: "/categorias/"
-  - title: "Etiquetas"
-    url: "/etiquetas/"
-  - title: "Acerca"
-    url: "/acerca/"
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
