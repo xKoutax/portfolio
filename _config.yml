@@ -64,25 +64,32 @@ author:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/"
+      url: "https://www.facebook.com/Victor.angel.ch/?locale=es_LA"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/victor-andre-chiquito-toro-b9358233b/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
+      url: "https://youtube.com/"  # Asegúrate de agregar tu enlace de YouTube real
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/koutax_x2023/?hl=es"
 
 footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/"
+      url: "https://www.facebook.com/Victor.angel.ch/?locale=es_LA"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/victor-andre-chiquito-toro-b9358233b/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
+      url: "https://youtube.com/"  # Asegúrate de agregar tu enlace de YouTube real
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/koutax_x2023/?hl=es"
+
 
 defaults:
   # _posts
