@@ -1,9 +1,11 @@
 ---
-title: "Explorando Máquinas de Hack The Box con Kali Linux"
-permalink: /htb/
-layout: tags
-author_profile: true
-tags: [HTB, Kali Linux, pentesting]
+title: "Explorando Htb"
+date: 25-02-24
+categories:
+  - blog
+tags:
+  - Pentesting
+  - update
 ---
 
 <h1>Explorando Máquinas de Hack The Box con Kali Linux</h1>
