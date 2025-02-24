@@ -1,8 +1,9 @@
 ---
 title: "Explorando Máquinas de Hack The Box con Kali Linux"
 permalink: /htb/
-layout: default
+layout: tags
 author_profile: true
+tags: [HTB, Kali Linux, pentesting]
 ---
 
 <h1>Explorando Máquinas de Hack The Box con Kali Linux</h1>
