@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Victor Andre Chiquito Toro"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Estudiante de Ciberseguridad | Pentester."
+  avatar : "https://e0.pxfuel.com/wallpapers/973/117/desktop-wallpaper-eyes-dimeo-s-ultra-black.jpg"
+  bio    : "Estudiante de Ciberseguridad."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
