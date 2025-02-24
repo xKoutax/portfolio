@@ -1,0 +1,9 @@
+main:
+  - title: "Publicaciones"
+    url: /publicaciones/
+  - title: "Categorías"
+    url: /categorias/
+  - title: "Etiquetas"
+    url: /etiquetas/
+  - title: "Acerca"
+    url: /acerca/
