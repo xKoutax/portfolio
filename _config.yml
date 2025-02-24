@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tätsú_
 email:
-description: >- Posts about security, CTFs. Based in Ecuador.
+description: "Posts about security, CTFs. Based in Ecuador."
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
