@@ -1,17 +1,29 @@
 ---
-title: "Explorando Htb"
-date: 25-02-24
+title: "Welcome to Jekyll!"
+date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Pentesting
+  - Jekyll
   - update
 ---
 
-<h1>Explorando Máquinas de Hack The Box con Kali Linux</h1>
+You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-<p>Bienvenido/a a esta sección dedicada a la exploración y explotación de máquinas en <strong>Hack The Box (HTB)</strong> utilizando <strong>Kali Linux</strong>. Aquí iré subiendo guías paso a paso sobre cómo abordar diferentes desafíos de pentesting, desde el reconocimiento inicial hasta la explotación y escalación de privilegios.</p>
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-<p>Cada publicación incluirá herramientas clave como <strong>Gobuster, John the Ripper, nmap, Metasploit, LinPEAS</strong>, entre otras, para demostrar técnicas reales utilizadas en auditorías de seguridad.</p>
+Jekyll also offers powerful support for code snippets:
 
-<p>El objetivo es compartir conocimiento, aprender juntos y fortalecer habilidades en <strong>hacking ético y ciberseguridad</strong>. ¡Nos vemos en las próximas publicaciones! 🚀</p>
+```ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+```
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
