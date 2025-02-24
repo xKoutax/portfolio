@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /acerca/
+title: "Acerca"
 ---
 
 Soy Tätsú_ or vyntatsu, un principiante en el fascinante mundo de la ciberseguridad. Mi interés por la tecnología y la seguridad digital comenzó hace poco, pero ya estoy completamente enfocado en aprender y compartir mis conocimientos con otros que, como yo, están dando sus primeros pasos en este campo.
